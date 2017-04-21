@@ -1,3 +1,6 @@
+"""Sends a text message using Twilio client"""
+
+
 from twilio.rest import Client
 
 # Your Account SID from twilio.com/console
